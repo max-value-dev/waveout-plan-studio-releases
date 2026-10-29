@@ -16,7 +16,7 @@ Se usavi la versione portatile 1.2, esporta un backup, chiudila e installa la nu
 
 ## Aggiornamenti
 
-L’app controlla le nuove versioni all’avvio e ogni quattro ore. Quando compare il messaggio, scegli **Scarica aggiornamento**. Puoi continuare a lavorare. **Salva e riavvia** conserva le modifiche, crea un backup e installa la nuova versione; **Più tardi** rimanda il riavvio.
+Dalla versione 1.3.2 l’app controlla le nuove versioni appena si apre, senza un’attesa iniziale, e poi ogni quattro ore. Quando trova un aggiornamento, il popup si apre automaticamente dopo la verifica online. Scegli **Scarica aggiornamento**. Puoi continuare a lavorare. **Salva e riavvia** conserva le modifiche, crea un backup e installa la nuova versione; **Più tardi** rimanda il riavvio.
 
 Puoi controllare manualmente dall’icona aggiornamenti nella barra sinistra o da **Aiuto → Controlla aggiornamenti**. Non serve ricevere un nuovo file ogni volta.
 
