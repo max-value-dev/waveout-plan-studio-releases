@@ -4,6 +4,12 @@ Crea programmi di allenamento e alimentazione con anteprima PDF, libreria atleti
 
 **[Scarica l’ultima versione per Windows](https://github.com/max-value-dev/waveout-plan-studio-releases/releases/latest)**
 
+## Novità della versione 1.4.0
+
+- Nuova grafica dei piani di allenamento e alimentazione.
+- Riscaldamento personalizzabile: fino a due movimenti per zona, sei in totale.
+- Superset più leggibili, con un solo timer condiviso.
+
 ## Primo avvio
 
 1. Scarica l’installer `.exe` dalla pagina qui sopra e aprilo.
