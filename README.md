@@ -4,11 +4,12 @@ Crea programmi di allenamento e alimentazione con anteprima PDF, libreria atleti
 
 **[Scarica l’ultima versione per Windows](https://github.com/max-value-dev/waveout-plan-studio-releases/releases/latest)**
 
-## Novità della versione 1.4.1
+## Novità della versione 1.4.2
 
-- Ripristinata l’interfaccia dell’editor allenamento, con campi separati ed etichette visibili.
-- Testo più leggibile per esercizi a tempo e misti, ad esempio “45s + 10 rep”.
-- Grafica attuale dei PDF e riscaldamento personalizzabile conservati.
+- Nuova sezione **Impostazioni → Condividi piani**.
+- Esporta in JSON il piano aperto oppure una scheda salvata, di allenamento o alimentazione.
+- Il coach che riceve il file sceglie **Importa piano JSON**, associa un atleta e continua a modificarlo nel canvas.
+- Ogni importazione crea una nuova bozza: piani precedenti e lavoro in corso restano conservati.
 
 ## Primo avvio
 
